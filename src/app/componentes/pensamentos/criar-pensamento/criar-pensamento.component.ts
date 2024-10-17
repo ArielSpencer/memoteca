@@ -1,10 +1,13 @@
-import { Component, OnInit } from '@angular/core';
+import { CommonModule } from '@angular/common';
+import { Component } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-criar-pensamento',
   standalone: true,
   templateUrl: './criar-pensamento.component.html',
-  styleUrls: ['./criar-pensamento.component.css']
+  styleUrls: ['./criar-pensamento.component.css'],
+  imports: [CommonModule, FormsModule]
 })
 
 export class CriarPensamentoComponent {
@@ -16,4 +19,13 @@ pensamento = {
   autoria: 'Dev',
   modelo: ''
 }
+
+criarPensamento() {
+  alert('Novo pensamento criado!');
+}
+
+cancelar() {
+  alert('Operação cancelada!');
+}
+
 }
