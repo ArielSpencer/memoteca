@@ -8,5 +8,12 @@ import { Component, OnInit } from '@angular/core';
 })
 
 export class CriarPensamentoComponent {
-title = 'memoteca';
+title = 'criar pensamento';
+
+pensamento = {
+  id:'1',
+  conteudo: 'Aprendendo Angular',
+  autoria: 'Dev',
+  modelo: ''
+}
 }
