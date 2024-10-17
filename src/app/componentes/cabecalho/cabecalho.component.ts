@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./cabecalho.component.css'],
 })
 export class CabecalhoComponent {
-  title = 'memoteca';
+  title = 'cabecalho';
 }
