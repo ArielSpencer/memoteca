@@ -14,16 +14,16 @@ export class ListarPensamentoComponent {
   title = 'listar pensamento';
 
   listaPensamentos = [
-    {
-      conteudo: 'Je vois la vie en rose!',
-      autoria: 'Edith Piaf',
-      modelo: 'modelo3'
-    },
-    {
-      conteudo: 'Tout peut s arranger, quelques rayons du ciel d été.',
-      autoria: 'Edith Piaf',
-      modelo: 'modelo2'
-    }
+    // {
+    //   conteudo: 'Je vois la vie en rose!',
+    //   autoria: 'Edith Piaf',
+    //   modelo: 'modelo3'
+    // },
+    // {
+    //   conteudo: 'Tout peut s arranger, quelques rayons du ciel d été.',
+    //   autoria: 'Edith Piaf',
+    //   modelo: 'modelo2'
+    // }
   ]
 
 }
