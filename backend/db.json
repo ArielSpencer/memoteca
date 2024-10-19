@@ -1,0 +1,58 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "O homem é do tamanho do seu sonho.",
+      "autoria": "Fernando Pessoa",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Não sou nada. Serei sempre nada. Mas tenho em mim todos os sonhos do mundo.",
+      "autoria": "Álvaro de Campos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Segue o teu destino, rega as tuas plantas, ama as tuas rosas. O resto é sombra de árvores alheias.",
+      "autoria": "Ricardo Reis",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Sentir tudo de todas as maneiras, viver tudo de todos os lados, ser a mesma coisa de todos os modos possíveis ao mesmo tempo.",
+      "autoria": "Álvaro de Campos",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 5,
+      "conteudo": "Tudo vale a pena quando a alma não é pequena.",
+      "autoria": "Fernando Pessoa",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 6,
+      "conteudo": "Sábio é o que se contenta com o espetáculo do mundo.",
+      "autoria": "Ricardo Reis",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 7,
+      "conteudo": "Para ser grande, sê inteiro: nada teu exagera ou exclui. Sê todo em cada coisa. Põe quanto és no mínimo que fazes.",
+      "autoria": "Ricardo Reis",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 8,
+      "conteudo": "O coração, se pudesse pensar, pararia.",
+      "autoria": "Álvaro de Campos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 9,
+      "conteudo": "Viver é não pensar.",
+      "autoria": "Ricardo Reis",
+      "modelo": "modelo3"
+    }
+  ]
+}
