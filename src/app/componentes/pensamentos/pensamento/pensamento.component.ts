@@ -1,5 +1,6 @@
 import { NgClass } from '@angular/common';
 import { Component, Input, model } from '@angular/core';
+import { Pensamento } from '../pensamento';
 
 @Component({
   selector: 'app-pensamento',
@@ -11,7 +12,8 @@ import { Component, Input, model } from '@angular/core';
 export class PensamentoComponent {
   title = 'pensamento';
 
-  @Input() pensamento = {
+  @Input() pensamento: Pensamento= {
+    id: 0,
     conteudo: 'Je vois la vie en rose',
     autoria: 'Edith Piaf',
     modelo: 'modelo3'
