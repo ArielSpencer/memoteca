@@ -53,6 +53,18 @@
       "conteudo": "Viver é não pensar.",
       "autoria": "Ricardo Reis",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Liberdade é pouco. O que eu desejo ainda não tem nome.",
+      "autoria": "Clarice Lispector",
+      "modelo": "modelo3",
+      "id": 10
+    },
+    {
+      "conteudo": "O que você faz é uma expressão do que você é.",
+      "autoria": "Maya Angelou",
+      "modelo": "modelo2",
+      "id": 11
     }
   ]
 }
