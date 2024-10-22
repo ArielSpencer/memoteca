@@ -32,7 +32,7 @@ export class CriarPensamentoComponent implements OnInit {
     )}
 
   cancelar() {
-    alert("Operação cancelada!")
+    this.router.navigate(['/listarPensamento'])
   }
 
 }
