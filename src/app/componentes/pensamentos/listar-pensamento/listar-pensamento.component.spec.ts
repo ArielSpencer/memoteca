@@ -8,7 +8,7 @@ describe('ListarPensamentoComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [ListarPensamentoComponent]
+      declarations: [ ListarPensamentoComponent ]
     })
     .compileComponents();
 

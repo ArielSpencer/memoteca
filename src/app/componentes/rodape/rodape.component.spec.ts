@@ -1,4 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+
 import { RodapeComponent } from './rodape.component';
 
 describe('RodapeComponent', () => {
@@ -7,7 +8,7 @@ describe('RodapeComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [RodapeComponent]
+      declarations: [ RodapeComponent ]
     })
     .compileComponents();
 

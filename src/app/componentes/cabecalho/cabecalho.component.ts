@@ -1,11 +1,15 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-cabecalho',
-  standalone: true,
   templateUrl: './cabecalho.component.html',
-  styleUrls: ['./cabecalho.component.css'],
+  styleUrls: ['./cabecalho.component.css']
 })
-export class CabecalhoComponent {
-  title = 'cabecalho';
+export class CabecalhoComponent implements OnInit {
+
+  constructor() { }
+
+  ngOnInit(): void {
+  }
+
 }
